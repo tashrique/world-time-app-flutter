@@ -1,16 +1,38 @@
-# world_time
+## World Time App (My first flutter app)
+A simple Flutter application that displays the current time for various locations around the world. This project serves as an introduction to Flutter development and showcases the use of APIs to fetch time data dynamically.
 
-3rd Flutter Project
+## Features
+- Select and display the current time for multiple locations.
+- Simple, user-friendly interface built with Flutter.
+- Learn Flutter basics and explore asynchronous programming with APIs.
+
 
 ## Getting Started
+### Clone the repository:
+```bash
+git clone https://github.com/tashrique/world-time-app-flutter.git
+```
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Navigate to the project folder:
+```bash
+cd world-time-app-flutter
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Install dependencies:
+```bash
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Run the app on your preferred emulator or physical device:
+```bash
+flutter run
+```
+
+## Resources
+If you're new to Flutter, here are a few resources to help you get started:
+- Write Your First Flutter App
+- Flutter Cookbook
+- Flutter Documentation
+  
+Feel free to fork and enhance the project! 😊
